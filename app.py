@@ -376,10 +376,10 @@ class AIVideoSummarizer:
 
             st.divider()
 
-            if mode == "Summary":
+            if mode == ":rainbow[**AI Summary**]":
                 self.generate_summary(loader[n])
 
-            elif mode == "Timestamps":
+            elif mode == ":rainbow[**AI Timestamps**]":
                 self.generate_time_stamps(loader[n])
 
             else:
