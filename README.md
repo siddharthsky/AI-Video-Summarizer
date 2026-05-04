@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/siddharthsky/AI-Video-Summarizer"><img src="https://github.com/siddharthsky/AI-Video-Summarizer/blob/main/research/demo3.gif" alt="Usage Demo"></a>
+  <a href="https://github.com/siddharthsky/AI-Video-Summarizer"><img src="https://github.com/siddharthsky/AI-Video-Summarizer/blob/main/research/demo4.gif" alt="Usage Demo"></a>
 </p>
 
 
